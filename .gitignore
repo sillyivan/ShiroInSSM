@@ -85,3 +85,18 @@ local.properties
 .scala_dependencies
 .worksheet
 
+.classpath
+.project
+build/classes/applicationContext-shiro.xml
+build/classes/applicationContext.xml
+build/classes/com/how2java/mapper/Permission.xml
+build/classes/com/how2java/mapper/PermissionMapper.xml
+build/classes/com/how2java/mapper/Role.xml
+build/classes/com/how2java/mapper/RoleMapper.xml
+build/classes/com/how2java/mapper/RolePermissionMapper.xml
+build/classes/com/how2java/mapper/User.xml
+build/classes/com/how2java/mapper/UserMapper.xml
+build/classes/com/how2java/mapper/UserRoleMapper.xml
+build/classes/generatorConfig.xml
+build/classes/log4j.properties
+build/classes/springMVC.xml
